@@ -2,7 +2,7 @@ const linksSocialMedia = {
   usergithub: 'aleksanderpalamar',
   twitter: 'Palamar_Dev',
   facebook: 'nerd.palamar',
-  youtube: 'UC1kVcwC8jAtC0B1gfLLc7KQ',
+  youtube: '/channel/UC1kVcwC8jAtC0B1gfLLc7KQ',
   instagram: 'palamar_dev',
 }
 
